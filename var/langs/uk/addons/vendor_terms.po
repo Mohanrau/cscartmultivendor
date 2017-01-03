@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /addons/vendor_terms.po\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2016-11-10 05:02-0500\n"
+
+msgctxt "Addons::name::vendor_terms"
+msgid "Vendor's terms and conditions"
+msgstr ""
+
+msgctxt "Addons::description::vendor_terms"
+msgid "Allows vendors to specify terms and conditions that the customers must agree with when buying from those vendors"
+msgstr ""
+
+msgctxt "Languages::vendor_terms.terms_and_conditions"
+msgid "Terms & conditions"
+msgstr ""
+
+msgctxt "Languages::vendor_terms.terms_and_conditions_tooltip"
+msgid "If you want a customer to agree to your terms and conditions at checkout, fill in Terms & Conditions. If you leave Terms & Conditions empty, a customer proceeds without agreement."
+msgstr ""
+
+msgctxt "Languages::vendor_terms.checkout_terms_and_conditions"
+msgid "I accept the [terms_href] of [vendor]"
+msgstr ""
+
+msgctxt "Languages::vendor_terms.checkout_terms_and_conditions_name"
+msgid "Terms & conditions"
+msgstr ""
+

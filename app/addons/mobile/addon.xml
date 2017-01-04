@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>mobile</id>
+    <version>1.0</version>
+    <supplier>TanND</supplier>
+    <name>NK Mobile</name>
+    <description>Manage layout for mobile (phone, tablet and app)</description>
+    <priority>500</priority>
+    <default_language>en</default_language>
+    <settings>
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="layout_for_phone">
+                        <name>Layout for phone</name>
+                        <type>input</type>
+                        <default_value>0</default_value>
+                    </item>
+                    <item id="layout_for_tablet">
+                        <name>Layout for tablet</name>
+                        <type>input</type>
+                        <default_value>0</default_value>
+                    </item>
+                    <item id="layout_for_phone_app">
+                        <name>Layout for phone app</name>
+                        <type>input</type>
+                        <default_value>0</default_value>
+                    </item>
+                    <item id="layout_for_tablet_app">
+                        <name>Layout for tablet app</name>
+                        <type>input</type>
+                        <default_value>0</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+</addon>
